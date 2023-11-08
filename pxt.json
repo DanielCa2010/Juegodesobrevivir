@@ -1,0 +1,54 @@
+{
+    "name": "SOBREVIVE",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "*",
+        "animation": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "controller": "*",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8",
+        "pxt-skillmap-sample": "github:microsoft/pxt-skillmap-sample#b36c62725e3fe26fca25b64cf158878b5fccd9be"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.46",
+        "tag": "v1.12.46",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e66fb08db35df2249cd64300195259c64d497106",
+        "target": "1.12.46",
+        "pxt": "8.5.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#a8e4d4",
+        "#d13b27",
+        "#e07f8a",
+        "#cc8218",
+        "#b3e868",
+        "#5d853a",
+        "#68c127",
+        "#286fb8",
+        "#9b8bff",
+        "#3f2811",
+        "#513155",
+        "#122615",
+        "#c7b581",
+        "#7a2222",
+        "#000000"
+    ]
+}
